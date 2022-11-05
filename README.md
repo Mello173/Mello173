@@ -1,4 +1,4 @@
-- Hi, I’m @Mello173
+- Hi, I am Marshel Jackson.
 - I am a mechanic who works on German cars, currently located in Southern Utah.
 - I have been learning code because I am interested in becoming a software engineer.
 - I had no experience when I started. I have so far learned the basics of Javascript & HTML & CSS. Currently I am learning SQL.
